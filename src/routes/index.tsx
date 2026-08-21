@@ -20,6 +20,9 @@ function Index() {
       <h1 className="text-4xl font-bold tracking-tight text-foreground">
         GitHub Sync Test 🐙
       </h1>
+      <h2 className="text-xl font-semibold text-foreground">
+        A simple sync experiment
+      </h2>
       <p className="max-w-md text-muted-foreground">
         This is a simple page to test syncing your Lovable project with GitHub.
       </p>
